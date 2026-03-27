@@ -56,49 +56,6 @@ This project aims to identify spam messages by analyzing text content using mach
 
 ---
 
-## ▶️ How to Run Locally
-
-### 1. Clone the Repository
-```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-### 2. Install Dependencies
-```
-pip install -r requirements.txt
-```
-
-### 3. Run the App
-```
-streamlit run app.py
-```
-
----
-
-## 💡 Example
-
-**Input:**
-```
-Click on this link and get 1000 rupees
-```
-
-**Output:**
-```
-🚨 Spam Message
-```
-
----
-
-## 🎯 Future Improvements
-
-- Improve accuracy using advanced models (XGBoost, Deep Learning)  
-- Add multilingual spam detection  
-- Deploy application on cloud platforms  
-- Enhance UI/UX  
-
----
-
 ## 🧠 Key Learnings
 
 - Natural Language Processing (NLP)  
