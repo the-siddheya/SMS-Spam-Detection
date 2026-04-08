@@ -1,4 +1,4 @@
-# 📩 SMS Spam Detection App
+# 📩 SMS Spam Detection
 
 An end-to-end Machine Learning project that detects whether a message is **Spam** or **Not Spam (Ham)** using Natural Language Processing (NLP) and a deployed Streamlit web application.
 
